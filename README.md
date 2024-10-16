@@ -26,6 +26,7 @@ Replace `feature-branch` with a descriptive name (let this be your name for this
 
 ### 4. Make Your Changes
 Make your desired changes in the repository.
+make a file with <your-name>.txt
 
 ### 5. Commit Your Changes
 Once you're satisfied with your changes, add and commit them:
