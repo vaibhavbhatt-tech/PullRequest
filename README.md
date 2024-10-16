@@ -43,7 +43,7 @@ git push origin feature-branch
 ```
 
 ### 7. Open a Pull Request
-Go to the original repository (https://github.com/biascodingclub/Github) and you will see a notification to open a Pull Request. Click that, provide a descriptive title, and submit your PR for review.
+Go to the original repository (https://github.com/biascodingclub/PullRequest) and you will see a notification to open a Pull Request. Click that, provide a descriptive title, and submit your PR for review.
 
 ### 8. Wait for Review
 Your PR will be reviewed, and you may be asked to make additional changes. Once your PR is approved, it will be merged into the main branch!
